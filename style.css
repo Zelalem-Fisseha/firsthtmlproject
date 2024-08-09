@@ -1,0 +1,131 @@
+*{
+    font-family: Corbel, serif;
+
+}
+
+a{
+    text-decoration: none;
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 50px;
+
+}
+
+#logo{
+    max-width: fit-content;
+}
+
+#img1{
+    width: 300px;
+}
+
+
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 10px;
+
+
+}
+
+#nav-links{
+    display: flex;
+    gap: 20px;
+
+
+}
+
+#social-links{
+    display: flex;
+    gap: 20px;
+}
+
+#middle-content{
+    display: flex;
+    gap: 20px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 20px;
+}
+
+hr{
+    border: none;
+    height: 5px;
+    background-color: yellow;
+}
+
+#img2{
+    width: 500px;
+}
+
+#middle-text{
+
+
+}
+
+#pro{
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 20px;
+}
+
+#card-section{
+    display: flex;
+    gap: 70px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 30px;
+}
+
+#abt{
+    border: 1px;
+    width: 150px;
+    height: 50px;
+    margin-top: 10px;
+    background-color: orange;
+    color: white;
+    font-family: "JetBrains Mono ExtraBold",sans-serif;
+}
+
+#abt:hover{
+    border-radius: 7px;
+}
+
+.cardh{
+    color:orange ;
+    font-family:"JetBrains Mono ExtraBold",sans-serif;
+}
+.cardb{
+    border: 1px;
+    width: 100px;
+    height: 40px;
+    margin-top: 10px;
+    background-color: orange;
+    color: white;
+    font-family:"JetBrains Mono ExtraBold",sans-serif;
+}
+
+.cardb:hover{
+
+    border-radius: 7px;
+}
+
+#al{
+    margin-bottom: 35px;
+}
+#pl{
+    margin-bottom:35px ;
+}
+
+
+
+
